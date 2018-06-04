@@ -25,7 +25,7 @@ SECRET_KEY = '#)%qc(8lco#y%ngv$l=k1g#82f0jhh--i98y6zmzdja6@==rhh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["http://redapi.pythonanywhere.com"]
+ALLOWED_HOSTS = ["redapi.pythonanywhere.com"]
 
 
 # Application definition
