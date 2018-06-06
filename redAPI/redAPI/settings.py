@@ -44,7 +44,7 @@ INSTALLED_APPS = [
 
 # Accepted domains for the API
 CORS_ORIGIN_WHITELIST = (
-    'localhost:3000/'
+    'https://redrecursos.herokuapp.com/'
 )
 
 MIDDLEWARE = [
